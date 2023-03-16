@@ -1,33 +1,39 @@
 {
     "cars": [
-        {
-            "id": 1,
-            "brand": "Tata",
-            "year": 2019,
-            "type": "Manual",
-            "kms": 10000,
-            "Description": "Tata Altroz with all original documents",
-            "Price": 500000
-        },
-        {
-            "id": 2,
-            "brand": "Tata",
-            "type": "AMT",
-            "year": 2017,
-            "kms": 8000,
-            "Description": "Tata Nexon with all original documents",
-            "Price": 800000
-        }
+      {
+        "id": 2,
+        "brand": "Tata",
+        "type": "AMT",
+        "year": null,
+        "kms": 8000,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 800000
+      },
+      {
+        "name": "tata",
+        "year": "2010",
+        "desc": "mfdfmd",
+        "id": 4,
+        "na": "tata",
+        "ye": "2010"
+      },
+      {
+        "name": "suzuki",
+        "year": "2011",
+        "desc": "mfdfmd",
+        "id": 5
+      },
+      {
+        "name": "Mitali sinha",
+        "year": "2005",
+        "desc": "mfdfmd",
+        "id": 6
+      }
     ],
-    "wishlisted_cars": [
-        {
-            "id": 1,
-            "brand": "Tata",
-            "year": 2019,
-            "type": "Manual",
-            "kms": 10000,
-            "Description": "Tata Altroz with all original documents",
-            "Price": 500000
-        }
+    "users":[
+       
+    ],
+    "hotels" : [
+        
     ]
-}
+  }
